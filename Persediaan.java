@@ -1,4 +1,4 @@
-import java.util.Scanner;
+javaimport java.util.Scanner;
 
 public class Persediaan {
     public static void main(String[] args) {
